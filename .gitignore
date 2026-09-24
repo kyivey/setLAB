@@ -1,0 +1,22 @@
+# Python / virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# PyInstaller output
+build/
+dist/
+
+# Downloaded music
+*.mp3
+*.part
+*.webm
+*.m4a
+music/
+
+# Old yt-dlp copies
+yt-dlp.*.old
+
+# macOS
+.DS_Store
+Brewfile.lock.json
